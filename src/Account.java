@@ -3,8 +3,8 @@ public abstract class Account {
 
     public Currency balance;
 
-    public Account(Currency initialDesposit){
-            this.balance = initialDesposit;
+    public Account(Currency initialDeposit){
+            this.balance = initialDeposit;
     }
 
     public abstract void withdraw(Currency money);
