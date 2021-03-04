@@ -1,0 +1,12 @@
+********* Welcome To Bashir's Banking *********
+
+Menue options:
+
+O. Become a new customer or create a new account
+B. Check Balance
+W. Withdraw Money
+D. Deposit Money
+Q. Exit
+
+
+Choose one of the above options:
